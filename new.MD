@@ -5,5 +5,5 @@ This is a newly created files
 * Hi There!!
 * How are you!!
 
-[Link to Google]www.google.com
+[Link to Google]http://www.google.com
 
